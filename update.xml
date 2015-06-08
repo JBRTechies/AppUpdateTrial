@@ -7,7 +7,7 @@
     <versionName>1.1</versionName>
     <forceUpdate>false</forceUpdate>
     <autoUpdate>false</autoUpdate>
-    <apkUrl>https://github.com/JBRTechies/AppUpdateTrial/blob/master/app-debug.apk</apkUrl>
+    <apkUrl>https://raw.github.com/JBRTechies/AppUpdateTrial/blob/master/app-debug.apk</apkUrl>
     <updateTips>
         <default>update tips</default>
         <en>update tips</en>
