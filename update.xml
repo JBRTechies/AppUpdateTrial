@@ -7,7 +7,7 @@
     <versionName>1.1</versionName>
     <forceUpdate>false</forceUpdate>
     <autoUpdate>false</autoUpdate>
-    <apkUrl>http://178.33.61.6/putstorage/DownloadFileHash/09B818593A5A4A5QQWE2828513EWQS/app-debug.apk</apkUrl>
+    <apkUrl>https://github.com/JBRTechies/AppUpdateTrial/blob/master/app-debug.apk</apkUrl>
     <updateTips>
         <default>update tips</default>
         <en>update tips</en>
