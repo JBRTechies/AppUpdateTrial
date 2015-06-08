@@ -9,7 +9,6 @@
     <autoUpdate>false</autoUpdate>
     <apkUrl>https://raw.githubusercontent.com/JBRTechies/AppUpdateTrial/master/app-debug.apk</apkUrl>
     <updateTips>
-        <default>update tips</default>
-        <en>update tips</en>
+        <default>Changelog :</default>
     </updateTips>
 </updateInfo>
